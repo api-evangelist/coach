@@ -1,7 +1,12 @@
 aid: coach
-url: https://raw.githubusercontent.com/api-evangelist/coach/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/coach/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.coach.com
+description: >-
+  Coach is a luxury leather goods and lifestyle brand offering handbags, accessories,
+  footwear, ready-to-wear apparel, and fragrances under the Coach, Kate Spade, and
+  Stuart Weitzman brands as part of Tapestry.
