@@ -1,7 +1,7 @@
 aid: coach
 url: https://raw.githubusercontent.com/api-evangelist/coach/refs/heads/main/apis.yml
 name: Coach
-x-type: company
+kind: company
 tags:
   - Apparel
   - Fashion
