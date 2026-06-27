@@ -3,9 +3,10 @@
   "feeds": [
     {
       "source": "https://www.coach.com/blog",
-      "error": "HTTPError"
+      "saved": 0,
+      "error": "403 Access Denied (Akamai edge block)"
     }
   ],
-  "fetched": "2026-06-14T20:42:17Z",
+  "fetched": "2026-06-27T12:33:16Z",
   "post_count": 0
 }
