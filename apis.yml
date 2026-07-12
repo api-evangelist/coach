@@ -27,6 +27,8 @@ description: >-
   channels rather than a self-service developer program.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/coach-domain-security.yml
   - url: https://www.coach.com
     name: Coach Website
     type: Website
