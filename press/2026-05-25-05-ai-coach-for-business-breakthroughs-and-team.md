@@ -1,7 +1,9 @@
 ---
 title: AI Coach for Business Breakthroughs and Team ...
 url: https://www.facebook.com/groups/698593531630485/posts/1195734565249710/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Coach" press release artificial intelligence'
 position: 5
 source: serpapi-google

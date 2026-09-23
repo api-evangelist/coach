@@ -1,7 +1,9 @@
 ---
 title: Press Archive
 url: https://www.coachhub.com/press-archive
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Coach" press release artificial intelligence'
 position: 4
 source: serpapi-google
