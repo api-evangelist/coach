@@ -1,4 +1,4 @@
-# Coach (coach)
+# Coach
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,57 +66,81 @@
 
 Coach is a luxury leather goods and lifestyle brand offering handbags, accessories, footwear, ready-to-wear apparel, and fragrances. Coach is owned by Tapestry, Inc. (NYSE: TPR), the New York-based house of accessible luxury brands that also operates Kate Spade New York and Stuart Weitzman. Coach operates direct-to-consumer e-commerce at coach.com and a global network of retail and outlet stores. Coach does not publish a public-facing developer portal or API; integrations with retail partners, marketplaces, and ad tech platforms run through Tapestry's enterprise systems and approved partner channels rather than a self-service developer program.
 
-**URL:** [https://raw.githubusercontent.com/api-evangelist/coach/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/coach/refs/heads/main/apis.yml)
+**Areas:** Apparel · Fashion · Handbags · Leather Goods · Luxury · Retail
 
-## Scope
+## Coach on APIs.io
 
-- **Type:** Index
-- **x-type:** company
-- **Access:** 3rd-Party
+Everything profiled for Coach is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/coach/](https://apis.io/providers/coach/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Apparel
-- Fashion
-- Handbags
-- Leather Goods
-- Luxury
-- Retail
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-26
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Coach Domain Security](https://apis.io/security/coach/coach-domain-security/)
 
-No public APIs are documented for Coach at this time. Coach is a direct-to-consumer luxury retail brand owned by Tapestry, Inc. and does not operate a self-service developer portal.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Coach Website](https://www.coach.com)
-- [About Coach](https://www.coach.com/about-us)
-- [Customer Service](https://www.coach.com/customer-service.html)
-- [Coachtopia](https://www.coach.com/coachtopia)
-- [Coachtopia Partners](https://www.coach.com/coachtopia/about/partners)
-- [Tapestry, Inc. (Parent Company)](https://www.tapestry.com/)
-- [About Tapestry](https://www.tapestry.com/company/)
-- [Kate Spade New York (Sister Brand)](https://www.katespade.com/)
-- [Stuart Weitzman (Sister Brand)](https://www.stuartweitzman.com/)
-- [Tapestry Corporate Responsibility](https://www.tapestry.com/responsibility/)
-- [Tapestry Investor Relations](https://www.tapestry.com/investors/)
-- [Tapestry Careers](https://careers.tapestry.com/)
-- [Privacy Policy](https://www.coach.com/legal/privacy-policy.html)
-- [Terms of Use](https://www.coach.com/legal/terms-of-use.html)
-- [Coach Blog](https://www.coach.com/blog)
-- [X](https://twitter.com/Coach)
-- [LinkedIn](https://www.linkedin.com/company/coach/)
-- [Facebook](https://www.facebook.com/coach)
-- [Instagram](https://www.instagram.com/coach/)
-- [YouTube](https://www.youtube.com/user/coach)
+- [Website](https://www.coach.com)
+- [Support](https://www.coach.com/customer-service.html)
+- [Blog](https://www.coach.com/blog)
+- [Terms of service](https://www.coach.com/legal/terms-of-use.html)
+- [Privacy policy](https://www.coach.com/legal/privacy-policy.html)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 10.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/coach/](https://apis.io/providers/coach/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Coach: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/coach/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
